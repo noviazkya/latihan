@@ -1,1 +1,1 @@
-console.log("nopi cantik");
+console.log("nopi cantik banget");
