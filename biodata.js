@@ -1,1 +1,2 @@
-console.log ("nama : novi");
+console.log ("nama : novi azkya");
+ 
