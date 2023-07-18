@@ -1,2 +1,2 @@
-console.log ("nama : novi azkya");
+console.log ("nama : novi azkya putri");
  
